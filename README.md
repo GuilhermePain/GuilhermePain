@@ -19,7 +19,6 @@
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="border-radius: 5px;">
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="border-radius: 5px;">
     <img src="https://img.shields.io/badge/FIREBASE-black?style=for-the-badge&logo=firebase&logoColor=ffcd34&labelColor=black" style="border-radius: 5px;">
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" style="border-radius: 5px;">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="border-radius: 5px;">
   </div>
 
