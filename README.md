@@ -1,6 +1,6 @@
 ## Olá, eu sou Guilherme!👋
 
-#### - Estudante do 3º ano do curso técnico de informática na Escola Estadual de Ensino Profissional Edson Queiroz. Um amante do mundo da programação, principalmente da área de desenvolvimento web com foco em front-end.
+#### - Estudante do 3º ano do curso técnico de informática na Escola Estadual de Ensino Profissional Edson Queiroz. Um amante do mundo da programação, principalmente da área de desenvolvimento web. Sempre procurando evoluir e aprimorar minhas habilidades técnicas e pessoais.
 
 ### Redes Sociais 🔗🌐
 
