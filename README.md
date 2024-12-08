@@ -28,7 +28,7 @@
 
 ### Status da minha conta GitHub 🌟
 
-  <div style="display: flex; justify-content: space-between; gap: 3px; margin-top: 20px;">
+  <div style="width: 100%; display: flex; justify-content: space-between; gap: 1px; margin-top: 20px;">
     <div>
       <img src="https://github-readme-stats.vercel.app/api?username=GuilhermePain&show_icons=true&theme=radical" alt="GitHub Stats" style="border-radius: 5px;">
     </div>
