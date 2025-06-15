@@ -1,6 +1,6 @@
 ## Olá, eu sou Guilherme!👋
 
-#### - Técnico de informática pela Escola Estadual de Ensino Profissional Edson Queiroz. Um amante do mundo da programação, principalmente da área de desenvolvimento web. Sempre procurando evoluir e aprimorar minhas habilidades técnicas e pessoais. Atualmente graduando em Análise e Desenvolvimento de Sistemas.
+#### - Técnico de informática pela Escola Estadual de Ensino Profissional Edson Queiroz. Um amante do mundo da programação, me identificando com o desenvolvimento fullstack. Sempre procurando evoluir e aprimorar minhas habilidades técnicas e pessoais. Atualmente graduando em Análise e Desenvolvimento de Sistemas.
 
 ### Redes Sociais 🔗🌐
 
@@ -22,6 +22,7 @@
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="border-radius: 5px;">
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="border-radius: 5px;">
     <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" style="border-radius: 5px;">
+      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" style="border-radius: 5px;" >
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="border-radius: 5px;">
   </div>
 
